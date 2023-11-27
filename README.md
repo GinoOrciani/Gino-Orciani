@@ -1,2 +1,3 @@
-# Gino-Orciani
-Actividad 8: 7 segmentos
+# repository-example
+
+Soy **Orciani Gino** de _4to 2da AVC_.
